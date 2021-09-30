@@ -1,0 +1,13 @@
+{
+  "short_name": "yogawithsusan",
+  "name": "Yoga With Susan Turis",
+  "lang": "en",
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
+
